@@ -82,7 +82,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Initialize the Vue.js project using Vite.  
      - **Reading:** [Vue.js Official Guide](https://vuejs.org/guide/introduction.html)  
-     - **Video:** [Vue.js Crash Course](https://www.youtube.com/watch?v=FXpIoQ_rT_c)  
+     - **Video:** [Vue.js Crash Course](https://www.youtube.com/watch?v=VeNfHj6MhgA&t=1s)  
   2. Install and configure Tailwind CSS.  
      - **Reading:** [Tailwind CSS Installation Guide](https://tailwindcss.com/docs/installation)  
      - **Video:** [Tailwind CSS Setup Tutorial](https://www.youtube.com/watch?v=UBOj6rqRUME)  
@@ -98,7 +98,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Set up Pinia for state management.  
      - **Reading:** [Pinia Documentation](https://pinia.vuejs.org/introduction.html)  
-     - **Video:** [Pinia State Management Tutorial](https://www.youtube.com/watch?v=zxaWkXwv2m0)  
+     - **Video:** [Pinia State Management Tutorial](https://www.youtube.com/watch?v=u0B9dysw29A&list=PL4cUxeGkcC9hp28dYyYBy3xoOdoeNw-hD)  
   2. Build components for navigation menus and audio controls.  
      - **Reading:** [Vue Component Basics](https://vuejs.org/guide/essentials/component-basics.html)  
      - **Video:** [Vue.js Components Tutorial](https://www.youtube.com/watch?v=6l6LYOsk5sE)  
@@ -114,10 +114,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Integrate APIs or mock data for music tracks.  
      - **Reading:** [Vue.js Fetching Data](https://vuejs.org/guide/essentials/data-fetching.html)  
-     - **Video:** [Data Fetching in Vue.js](https://www.youtube.com/watch?v=kUMe1FH4CHE)  
+     - **Video:** [Data Fetching in Vue.js](https://www.youtube.com/watch?v=7iDGJolHFmU)  
   2. Implement audio playback functionality.  
      - **Reading:** [HTML Audio API](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement)  
-     - **Video:** [Building an Audio Player](https://www.youtube.com/watch?v=V2bM8m2uHBE)  
+     - **Video:** [Building an Audio Player](https://www.youtube.com/watch?v=XZwBNDGuWGU)  
 
 - **Deliverables:**  
   - Working audio playback with play/pause controls.
@@ -130,10 +130,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Build playlist management and search components.  
      - **Reading:** [Vue Router Basics](https://router.vuejs.org/guide/)  
-     - **Video:** [Vue Router Tutorial](https://www.youtube.com/watch?v=I1Kw0fJqv3Q)  
+     - **Video:** [Vue Router Tutorial](https://www.youtube.com/watch?v=dYZxvwfgoXk&list=PLbGui_ZYuhiiK4anwMI4y3wfmZEx6vDQo)  
   2. Customize UI for user preferences and themes.  
      - **Reading:** [Tailwind CSS Theming](https://tailwindcss.com/docs/theme)  
-     - **Video:** [Advanced Tailwind Features](https://www.youtube.com/watch?v=vbfiGyGSeXY)  
+     - **Video:** [Advanced Tailwind Features](https://www.youtube.com/watch?v=MAtaT8BZEAo&t=866s)  
 
 - **Deliverables:**  
   - Playlist management and search bar functionalities.
@@ -146,10 +146,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Test all features and fix bugs.  
      - **Reading:** [Vue Testing Library](https://testing-library.com/docs/vue-testing-library/intro/)  
-     - **Video:** [Vue Testing Guide](https://www.youtube.com/watch?v=frEjs3IUDE8)  
+     - **Video:** [Vue Testing Guide](https://www.youtube.com/watch?v=f8dkz1kbm7Q&list=PLXDouhCU5r6oai6AB-WpDNPxEAqhvDfFt)  
   2. Deploy the application to Netlify or Vercel.  
      - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)  
-     - **Video:** [Deploying Vue Apps](https://www.youtube.com/watch?v=PiMZ1fcuJ-c)  
+     - **Video:** [Deploying Vue Apps](https://www.youtube.com/watch?v=qAcOhFdC0-k&t=31s)  
 
 - **Deliverables:**  
   - Fully deployed Deezer Clone accessible via a public URL.
