@@ -63,7 +63,7 @@ The application workflow includes user navigation through menus, searching and p
 ---
 
 ### **FlowChart**  
-![image](https://github.com/user-attachments/assets/deezer-clone-flowchart)
+![image](https://github.com/user-attachments/assets/aacff91b-5aa5-492b-bc92-ca964077b980)
 
 ---
 
